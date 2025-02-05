@@ -2,9 +2,11 @@
 ### 🚀 AI Engineer | Machine Learning Enthusiast
 
 💡 Một số thông tin về tôi:
-- 🏫 Học tại: Đại học FPT Cần Thơ
-- 🌱 Đang học thêm: Python, Java, C, React JS,...
-- 📫 Liên hệ với tôi qua email hoặc zalo: duongntce180478@fpt.edu.vn hoặc 0358858617
+🎓 Học tại: ![FPT University](https://img.shields.io/badge/FPT%20University-FFA500?style=flat&logo=google-scholar&logoColor=white)
+🌱 Đang học: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+📧 Email: [duongntce180478@fpt.edu.vn](mailto:duongntce180478@fpt.edu.vn)
+📱 Zalo: 0358858617
+
 
 ---
 
