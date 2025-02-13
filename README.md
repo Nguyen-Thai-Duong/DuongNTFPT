@@ -14,9 +14,8 @@
 ---
 
 ### 📌 **Những dự án nổi bật**
-- 🔹 [Project 1](https://github.com/username/project1) - Mô tả ngắn
-- 🔹 [Project 2](https://github.com/username/project2) - Mô tả ngắn
-- 🔹 [Project 3](https://github.com/username/project3) - Mô tả ngắn
+- 🔹 [Project 1](https://github.com/Nguyen-Thai-Duong/javaLearning) - Những bài java tôi đã được tự code theo chương trình của trường.
+- 🔹 [Project 2](https://github.com/Nguyen-Thai-Duong/javaGameTrucXanh/releases/tag/v1.0-beta) - Game Trí Nhớ Trúc Xanh bằng code java.
 
 ---
 
