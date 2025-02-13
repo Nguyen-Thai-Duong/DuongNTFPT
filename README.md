@@ -26,9 +26,13 @@
 ---
 
 ### 🚀 **Ngôn ngữ và công nghệ sử dụng**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+
 
 ---
 
 🌟 **Follow me:**  
-[GitHub]https://github.com/Nguyen-Thai-Duong  | [Portfolio](https://your-username.github.io/)
+[GitHub]https://github.com/Nguyen-Thai-Duong
